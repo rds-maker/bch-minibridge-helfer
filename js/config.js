@@ -19,7 +19,7 @@ const CONFIG = {
   ADMIN_PASSWORD: 'bridge2024',
 
   // App-Titel
-  APP_TITLE: 'Mini-Bridge Helfer',
+  APP_TITLE: 'BCH-Helfer-Anmeldung',
 
   // Standard: maximale Helfer pro Termin
   DEFAULT_MAX_HELFER: 3,

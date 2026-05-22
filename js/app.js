@@ -74,10 +74,10 @@ function screenLogin() {
     <div class="screen-center">
       <div class="login-card">
         <div class="brand" style="margin-bottom:1.8rem">
-          <div class="brand-icon"><i class="ti ti-cards"></i></div>
+          <div class="brand-icon" style="background:#0F6E56;padding:4px"><img src="https://raw.githubusercontent.com/rds-maker/bch-bridgedealer-rds/main/BCH-klein-weiss.png" alt="BCH Logo" style="width:100%;height:100%;object-fit:contain"></div>
           <div>
             <h1>${esc(CONFIG.APP_TITLE)}</h1>
-            <p>Einführungskurse — Helfer-Eintragung</p>
+            <p>Helfer-Eintragung</p>
           </div>
         </div>
         <div class="form-group">
@@ -140,7 +140,7 @@ async function screenStandorte() {
     <div class="page">
       <header class="topbar">
         <div class="brand-sm">
-          <div class="brand-icon-sm"><i class="ti ti-cards"></i></div>
+          <div class="brand-icon-sm" style="background:#0F6E56;padding:3px"><img src="https://raw.githubusercontent.com/rds-maker/bch-bridgedealer-rds/main/BCH-klein-weiss.png" alt="BCH" style="width:100%;height:100%;object-fit:contain"></div>
           <span>${esc(CONFIG.APP_TITLE)}</span>
         </div>
         <div class="user-chip">
@@ -322,7 +322,7 @@ async function screenAdmin(tab) {
     <div class="page">
       <header class="topbar admin-topbar">
         <div class="brand-sm">
-          <div class="brand-icon-sm" style="background:#1D9E75"><i class="ti ti-shield-lock"></i></div>
+          <div class="brand-icon-sm" style="background:#0F6E56;padding:3px"><img src="https://raw.githubusercontent.com/rds-maker/bch-bridgedealer-rds/main/BCH-klein-weiss.png" alt="BCH" style="width:100%;height:100%;object-fit:contain"></div>
           <span>Admin — ${esc(CONFIG.APP_TITLE)}</span>
         </div>
         <button class="icon-btn" id="admin-logout" title="Admin abmelden"><i class="ti ti-logout"></i></button>
