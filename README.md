@@ -10,7 +10,7 @@ Web-App für die Anmeldung von Helfern an Mini-Bridge Einführungskursen.
 - Standorte & Termine hinzufügen / bearbeiten / löschen
 - Helfer-Eintragungen einsehen und entfernen
 - Export als CSV (Excel) und JSON
-- Datenspeicherung via [Pantry](https://getpantry.cloud) (kostenlos, kein Backend nötig)
+- Datenspeicherung via JSONBIN
 
 ## Setup
 
