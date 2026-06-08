@@ -16,9 +16,17 @@ Web-App für die Anmeldung von Helfern an Mini-Bridge Einführungskursen.
 
 ### 1. Pantry-Account erstellen
 
-1. Gehe zu [getpantry.cloud](https://getpantry.cloud)
-2. Klicke auf **"Create Pantry"** und gib eine E-Mail-Adresse ein
-3. Kopiere deine **Pantry-ID** aus dem Dashboard
+1. wie kann ich die daten auf JSONBIN sehen
+
+12:07
+Gehe auf jsonbin.io → einloggen → links auf „BINS" klicken.
+
+Dort siehst du deine zwei Bins:
+
+Name	Bin ID	Verwendung
+bch-anmeldungen	6a268958f5f4af5e29ca3723	Anmelde-App (Begleitete Partien)
+minibridge	6a2691dff5f4af5e29ca64dd	Mini-Bridge Helfer
+Klick auf einen Bin → rechts erscheint der JSON-Inhalt, den du direkt lesen und bearbeiten kannst. Das ist viel komfortabler als Pantry!
 
 ### 2. Konfiguration anpassen
 
